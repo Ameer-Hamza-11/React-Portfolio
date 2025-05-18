@@ -42,7 +42,7 @@ const About = () => {
               scalable, and modern web interfaces using React, Tailwind CSS, Redux, and more.
             </p>
             <a
-              href="https://your-resume-link.com"
+              href="https://drive.google.com/file/d/19z2OqRT7tSMeTGkYqgrWUJGzekPvKBvZ/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-orange-500 text-white rounded-xl hover:bg-orange-600 transition-all duration-300 shadow-md"
