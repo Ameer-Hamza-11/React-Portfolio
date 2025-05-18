@@ -3,18 +3,17 @@ import { NavLink } from 'react-router-dom';
 
 const Home = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center px-4 bg-white text-black">
+    <div className="min-h-screen flex items-center justify-center px-4 bg-white text-black font-['Montserrat']">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between gap-10">
         
-        {/* Image Section */}
+
         <div className="w-full md:w-1/2 flex justify-center">
           <figure className="w-3/4 md:w-full flex justify-center">
             <img src="../src/assets/HeroImg.png" alt="Hero" className="w-full h-auto max-w-md" />
           </figure>
         </div>
 
-        {/* Text Section */}
-    {/* Text Section */}
+
 <div className="w-full md:w-1/2 flex flex-col justify-center items-start text-left space-y-4">
   <h1 className="text-4xl md:text-5xl font-bold text-orange-500 leading-tight">
     Hey There, <br />
