@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Multi-Page React App",
+    "description": "Multi-page website using React, Axios & Tailwind.",
+    "image": "../src/assets/images/multi-page.png",
+    "link": "https://multi-page-website-react.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "React Query Site",
+    "description": "Uses React Query and Axios with Tailwind styling.",
+    "image": "../src/assets/images/react-query.png",
+    "link": "https://react-query-website.netlify.app/"
+  },
+  {
+    "id": 3,
+    "title": "Axios CRUD",
+    "description": "CRUD operations with Axios and mock API.",
+    "image": "../src/assets/images/axios-crud.png",
+    "link": "https://axios-crud-operations-website.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "Router Practice",
+    "description": "React Router demo with page transitions.",
+    "image": "../src/assets/images/router-practice.png",
+    "link": "https://react-routers-practice.netlify.app/"
+  },
+  {
+    "id": 5,
+    "title": "Pokémon Cards",
+    "description": "Pokémon API project with stats and themes.",
+    "image": "../src/assets/images/pokemon-app.png",
+    "link": "https://react-pokemon-website.netlify.app/"
+  },
+  {
+    "id": 6,
+    "title": "Country Info",
+    "description": "Shows country info using external API.",
+    "image": "../src/assets/images/country-info.png",
+    "link": "https://react-country-website-hamza.netlify.app/"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Redux Todo",
+    "description": "Todo app with Redux Toolkit.",
+    "image": "../src/assets/images/redux-todo-app.png",
+    "link": "https://redux-todo-app-react-2.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "Currency Converter",
+    "description": "Convert currencies using Axios API.",
+    "image": "../src/assets/images/currency-converter-app.png",
+    "link": "https://currency-converter-react-axios.netlify.app/"
+  },
+  {
+    "id": 3,
+    "title": "Basic Todo",
+    "description": "Simple todo with add & delete.",
+    "image": "../src/assets/images/basic-todo-app.png",
+    "link": "https://react-todo-app-hamza.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "Theme Toggle",
+    "description": "Light/dark mode using Bootstrap.",
+    "image": "../src/assets/images/light-dark-mode.png",
+    "link": "https://react-light-dark-mode-website.netlify.app/"
+  },
+  {
+    "id": 5,
+    "title": "HTML Portfolio",
+    "description": "Static portfolio using HTML & CSS.",
+    "image": "../src/assets/images/portfolio-website.png",
+    "link": "https://portfolio-project111.netlify.app/"
+  },
+  {
+    "id": 6,
+    "title": "Layout Template",
+    "description": "Basic layout with Bootstrap.",
+    "image": "../src/assets/images/html-bootstrap-layout.png",
+    "link": "https://lively-creponne-541e26.netlify.app/"
+  }
+]
