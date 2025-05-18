@@ -1,5 +1,5 @@
 import React from 'react';
-import MegaProjectsData from '../MegaProjects.json';
+import MegaProjectsData from './MegaProjects.json';
 import { NavLink } from 'react-router-dom';
 
 const MegaProjects = () => {

@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import HeroImg from '../assets/HeroImg.png';
 
 const Home = () => {
   return (
@@ -9,7 +10,7 @@ const Home = () => {
 
         <div className="w-full md:w-1/2 flex justify-center">
           <figure className="w-3/4 md:w-full flex justify-center">
-            <img src="../src/assets/HeroImg.png" alt="Hero" className="w-full h-auto max-w-md" />
+            <img src={HeroImg} alt="Hero" className="w-full h-auto max-w-md" />
           </figure>
         </div>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import MegaProjectsData from '../MiniProjects.json';
+import MegaProjectsData from './MiniProjects.json';
 import { NavLink } from 'react-router-dom';
 
 const MiniProjects = () => {

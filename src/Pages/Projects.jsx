@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import MegaProjects from './Projects/ProjectFiles/MegaProjects';
-import MiniProjects from './Projects/ProjectFiles/MiniProjects';
+import MegaProjects from './Projects/MegaProjects';
+import MiniProjects from './Projects/MiniProjects';
 
 const Projects = () => {
   const [megaProjects, setMegaProjects] = useState(false);

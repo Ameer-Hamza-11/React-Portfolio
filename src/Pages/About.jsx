@@ -1,4 +1,5 @@
 import React from 'react';
+import AboutImg from '../assets/About.png';
 
 const skills = [
   { name: 'HTML', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
@@ -51,7 +52,7 @@ const About = () => {
           </div>
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="../src/assets/About.png"
+              src={AboutImg}
               alt="Developer Illustration"
               className="w-72 h-72 md:w-80 md:h-80 rounded-xl object-cover shadow-lg"
             />
